@@ -1,4 +1,3 @@
-#自訂的tools module
 import random,csv
 
 def getStudents(student_nums:int=1, scores_nums:int=2) -> list[list]:
