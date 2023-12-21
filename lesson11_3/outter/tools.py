@@ -1,4 +1,3 @@
-#自訂的tools module
 import csv
 
 def saveToCSV(fileName:str,data:list[list],subject_nums:int) -> bool:
