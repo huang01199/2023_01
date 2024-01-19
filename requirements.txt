@@ -35,3 +35,4 @@ openpyxl
 requests
 pandas
 matplotlib
+SQLAlchemy
