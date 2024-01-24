@@ -36,3 +36,4 @@ requests
 pandas
 matplotlib
 SQLAlchemy
+jinja2
