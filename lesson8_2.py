@@ -1,4 +1,3 @@
-
 import pyinputplus as pyip
 import math
 #1個參數,有傳出值
